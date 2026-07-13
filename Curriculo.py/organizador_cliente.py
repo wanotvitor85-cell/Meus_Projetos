@@ -1,3 +1,4 @@
+#Para usar o script corretamente é necessário colocar o script Poetry.lock e pyproject.toml, além de instalar o FastApi e Insomnia
 #Criar um sistema backend para cadastro de clientes com as seguintes funcionalidades:
 #1. cadastrar cliente(Post)
 #2. Listar clientes(Get)
