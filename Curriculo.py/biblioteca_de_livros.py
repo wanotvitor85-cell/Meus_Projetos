@@ -1,5 +1,5 @@
 #API de livros
-
+#Para usar o script corretamente é necessário colocar o script Poetry.lock e pyproject.toml, além de instalar o FastApi e Insomnia
 # GET, POST, PUT, DELETE
 
 # GET - Buscar os dados dos livros
