@@ -9,9 +9,8 @@ import datetime
 #Conectamos o servidor do Gmail via IMAP
 object = imaplib.IMAP4_SSL('imap.gmail.com' )   
 #Passamos o login e a senha do email que queremos acessar
-login =  "wanotvitor85@gmail.com"
-senha = "ntzj dmgu grfs  wlsx"
-
+login =  #Adicione um email da sua preferência
+senha = #Adicione a senha criada deste email, caso dê falha, procure "Gerenciamento de conta" vá em segurança e clique em "Verificação em duas etapas", por fim, crie uma senha para aplicativos.
 
 object.login(login, senha)
 
